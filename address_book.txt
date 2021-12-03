@@ -1,0 +1,11 @@
+Antti;Anttinen;Orivedenkatu 10 A 3;33720;Tampere
+Sauli;Niinistö;Mariankatu 2;00170;Helsinki
+Sanna;Marin;Jokukatu 10 B;02160;Espoo
+Mari;Walls;Korkeakoulunkatu 7;33720;Tampere
+Matti;Meikäläinen;Punalantie 8 E 22;42120;Jämsä
+Joulu;Pukki;Tähtikuja 1;96930;Rovaniemi
+Rovaniemen;Matkailuneuvonta;Koskikatu 12;96200;Rovaniemi
+Jouni;Lohjalainen;Puutarhakuja 11;08700;Lohja
+Sirpa;Sirpanen;Kaivosvoudintie 8;01610;Vantaa
+Teemu;Salminen;Ohjelmoijankatu 14;33720;Tampere
+Tonttu;Toljanteri;Joulupukin Pajakylä;96930;Rovaniemi
